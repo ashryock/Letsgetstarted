@@ -4,6 +4,7 @@ All output should be sent to the console. console.log()
 
 JS Reference
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+<br>
 http://stackoverflow.com/search?q=convert+string+to+integer+javascript
 
 
